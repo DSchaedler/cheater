@@ -15,4 +15,10 @@ This app was developed using [Sketchware](http://sketchware.io/jsp/en/index.jsp)
 This app is released under the [MIT License](https://opensource.org/licenses/MIT). A copy can be found in this repository.
 
 ## Todo
+ * Add a menu
+   * Add License Information
+   * Add Help section
+   * Add Links to Github and Website
+   * Add a "Clear Data" button
  * Add graphs. Maybe.
+ * Add a calendar showing cheats per day.
